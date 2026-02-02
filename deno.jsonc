@@ -20,6 +20,7 @@
 	},
 	"imports": {
 		"@std/assert": "jsr:@std/assert@1",
+		"@std/async": "jsr:@std/async@1",
 		"@std/fs": "jsr:@std/fs@1",
 		"@std/path": "jsr:@std/path@1",
 		"three": "npm:three@0.161.0"
